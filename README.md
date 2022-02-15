@@ -1,4 +1,4 @@
-<p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sabbir-21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabbir-21&layout=compact&langs_count=8&theme=algolia"/></p>
+<p align="center"><img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sabbir-21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabbir-21&layout=compact&langs_count=8&theme=algolia"/></p>
 
 [![Follow me](https://img.shields.io/github/followers/sabbir-21?label=follow%20me&style=social)](https://github.com/sabbir-21)
 [![Twitter](https://img.shields.io/twitter/follow/SabbirA58223088?label=Follow%20me&style=social)](https://twitter.com/SabbirA58223088)
